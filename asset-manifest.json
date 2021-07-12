@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/heeknews/static/css/main.e32a7fc3.chunk.css",
+    "main.js": "/heeknews/static/js/main.a1ecf5de.chunk.js",
+    "main.js.map": "/heeknews/static/js/main.a1ecf5de.chunk.js.map",
+    "runtime-main.js": "/heeknews/static/js/runtime-main.86ebf492.js",
+    "runtime-main.js.map": "/heeknews/static/js/runtime-main.86ebf492.js.map",
+    "static/js/2.ff5359dd.chunk.js": "/heeknews/static/js/2.ff5359dd.chunk.js",
+    "static/js/2.ff5359dd.chunk.js.map": "/heeknews/static/js/2.ff5359dd.chunk.js.map",
+    "index.html": "/heeknews/index.html",
+    "static/css/main.e32a7fc3.chunk.css.map": "/heeknews/static/css/main.e32a7fc3.chunk.css.map",
+    "static/js/2.ff5359dd.chunk.js.LICENSE.txt": "/heeknews/static/js/2.ff5359dd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/heeknews/static/media/new_image.1617d3cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86ebf492.js",
+    "static/js/2.ff5359dd.chunk.js",
+    "static/css/main.e32a7fc3.chunk.css",
+    "static/js/main.a1ecf5de.chunk.js"
+  ]
+}
