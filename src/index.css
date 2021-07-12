@@ -1,13 +1,144 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap");
+*{
+  font-family: 'Questrial', sans-serif;
+}
+.headline{
+background-image: url("./new_image.jpg");
+background-size: contain;
+background-attachment:fixed;
+
+}
+.Home{
+  background-image: url("./kk4.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+}
+.BBC{
+  background-image: url("./kk1.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+
+
+}
+.Business{
+  background-image: url("./kk2.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+
+
+}
+.Entertainment{
+  background-image: url("./kk3.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+
+}
+.General{
+  background-image: url("./kk4.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+
+}
+.Health{
+  background-image: url("./kk5.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+
+}
+.Science{
+  background-image: url("./kk1.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+
+}
+.Sport{
+  background-image: url("./kk2.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+
+}
+.Technology{
+  background-image: url("./kk3.jpg");
+  background-size: contain;
+  background-attachment:fixed;
+
+}
+.sidebar{
+  height:600px;
+  width:15%;
+  top:20px;
+  display:block;
+  text-align: center;
+  border-radius: 10px;
+  position:fixed;
+  color: aliceblue;
+  right:12px;
+  padding-right:30px;
+  padding-top:90px;
+  background-color:rgb(39, 41, 41);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.sidelink{
+  text-decoration: none;
+  color:white;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.sidelist{
+  list-style-type:none;
+  padding-top:25px;
+}
+.sidebar .sidelink:hover{
+  color:rgb(70, 139, 167);
+}
+
+.card{
+  color: rgb(185, 203, 198);
+  text-align: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  width: 950px;
+  height:250px;
+  border-radius: 15px;
+  box-shadow:10px  20px  40px rgb(135, 49, 22);
+  padding-top:10px ;
+  margin-top: 50px;
+  margin-left:100px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.footer{
+  background-color: rgb(39, 41, 41);
+  width:70%;
+  color:white;
+  height: 40px;
+  padding:30px;
+  margin-left:90px;
+  border-radius: 17px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  text-align: center;
+
+}
+.header{
+  background-color:rgb(39, 41, 41);
+  text-align: center;
+
+  width:70%;
+  color:white;
+  height: 40px;
+  padding:30px;
+  
+  margin-left:90px;
+  border-radius: 17px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
